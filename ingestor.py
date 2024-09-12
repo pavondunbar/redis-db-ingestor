@@ -8,7 +8,7 @@ import logging
 import requests
 
 # Configurations
-RPC_ENDPOINT = "https://rpc.devolvedai.com"   # Replace with your RPC Endpoint for Substrate
+RPC_ENDPOINT = "PUT-YOUR-RPC-URL-HERE"   # Replace with your RPC Endpoint for Substrate
 BATCH_SIZE = 100  # Batch size for Redis operations
 MAX_WORKERS = 10  # Number of parallel workers
 
